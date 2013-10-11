@@ -1,0 +1,29 @@
+PROJECT BACKGROUND
+
+In recent years the computational complexity of mathematical models employed in financial mathematics
+has witnessed a tremendous growth. [b]Advanced numerical techniques[/b] are imperative for the
+most present-day applications in financial industry.
+
+The motivation for this training network is the need for a network of highly educated European scientists
+in the field of financial mathematics and computational science, so as to exchange and discuss
+current insights and ideas, and to lay groundwork for future collaborations.
+
+Besides a series of internationally recognized researchers from academics, leading quantitative analysts
+from the financial industry also participate in this network. The challenge lies in the necessity of
+[b]combining transferable techniques and skills[/b] such as mathematical analysis, sophisticated numerical
+methods and stochastic simulation methods with deep qualitative and quantitative understanding
+of mathematical models arising from financial markets.
+
+The main training objective is to prepare, at the highest possible level, young researchers with a broad
+scope of scientific knowledge and to teach  [b]transferable skills, like social awareness[/b] which is very
+important in view of the recent financial crises.
+
+The current topic in this network is that the  [b]financial crisis in the European countries[/b] 
+is a  [b]contagion and herding effect[/b] and is clearly outside of the domain of validity of Black-Scholes and Merton’s
+theory, since the  [b]market is not Gaussian and it is not frictionless and complete[/b].
+
+In this research training network our aim is to [b]deeper understand complex (mostly nonlinear)
+financial models and to develop effective and robust numerical schemes for solving linear and
+nonlinear problems[/b] arising from the mathematical theory of pricing financial derivatives and related
+financial products. This aim will be accomplished by means of financial modelling, mathematical
+analysis and numerical simulations, optimal control techniques and validation of models.
